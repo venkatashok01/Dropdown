@@ -1,0 +1,23 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "Dropdown",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Ashok",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.3.9"
+  }
+}
